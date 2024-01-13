@@ -20,5 +20,5 @@
 ### Resultados
 
 ![Alt text](./1.jpg "Optional title")
-![Alt text](./2.jpg "Optional title")
-![Alt text](./3.jpg "Optional title")
+#![Alt text](./2.jpg "Optional title")
+#![Alt text](./3.jpg "Optional title")
